@@ -2,6 +2,12 @@
 Task Tracker is a simple CLI-based project used to manage and track tasks such as pending, completed, and ongoing work. It helps improve programming skills by practicing file handling, user input processing, and command-line application development in Python.
 A simple Command Line Interface (CLI) based Task Tracker application built using Python. This project helps users manage daily tasks directly from the terminal.
 
+## Project Reference
+
+This project is based on the Task Tracker project from roadmap.sh:
+
+https://roadmap.sh/projects/task-tracker
+
 **Features**
 Add new tasks
 Update existing tasks
